@@ -1,10 +1,10 @@
 
-Continuum Reporting
-======
+# Continuum Reporting
+
+---
 
 **Ryan Larson & Kate Perry**
 
----
 ## Table of Contents
 
 [Executive Summary](#Executive-Summary)
@@ -23,7 +23,6 @@ Continuum Reporting
 
 [Sources](#Sources)
 
----
 ## Executive Summary
 
 Right up to applying for college, high school students have a very unique relationship with ACT relative to any other source of guidance they have on their side.  ACT is a trusted, objective resource intended to provide students with an accurate gauge of academic abilities and projected success in college.  However, the ACT assessment is a single-point interaction that often does not leave students with actionable insights or hints on next steps to take. 
@@ -94,7 +93,6 @@ In order to structure our research and solution development, we followed IIT ID�
 
     *Insight*: Our tool will direct students toward applying for viable colleges for them, and further development of this product should include implementation of planning tools to help students get there.
 
----
 ## Desirability
 
 #### Primary Market
@@ -132,30 +130,29 @@ As for the secondary market of Parents and Mentors, they will find value in the 
 
 In order for ACT to build and extend relationships with users, it needs to provide incentives for users to return to its products.  Because ACT’s target user base is made up of students on the path to college, we believe there is an excellent opportunity to use the data gathered from users in the ACT Score Report (including the Student Profile and Interest Inventory) and Engage, and ONET and Scorecard data to provide users with insights into areas they may find success in.  When ACT can help users draw connections between their products through continuum reporting, users see the value of providing further data to ACT.  In this way, the purchase of multiple ACT products and services is incentivized.
 
----
 ## Framing the Concept
 
 Because our ultimate goal with this tool is to get students to apply to colleges, we wanted to explore what exactly makes a college recommendation “fit” with the student, and thus resonate enough to apply.  To visualize our thinking, we looked at the basic concept of a function.  It takes an input (the Domain), performs an operation (the Function, or “f”), and returns an output (the Range).
 
-<img src='examples/concepts/functions.png'>
+![Example of a function](/examples/concepts/functions.png)
 
 Likewise, in theory, we can take a set of inputs from a student (Attributes previously expressed to ACT by taking the ACT and Engage assessments) and put them through a “black box” function that compares student Attributes to the attributes of Ambitions (majors, colleges, or jobs).  This function will result in a list of Ambition Fits that can be ranked by closest match.  In order to figure out what that “black box” function does to produce Ambition Fits, we need to break down how students arrive at ambitions naturally.
 
 Within the function’s input, or Student Attributes Domain (Figure 5), there are three categories of attributes: Environment, Capabilities, and Attitudes and Beliefs.  The spot at which all three overlap is where the Ambition lies.  We believe that, with the information already received from students, ACT has the opportunity to help students make connections between their Attributes, and match that to Ambition attributes.
 
-<img src='examples/concepts/student-attributes.png'>
+![Student Attributes](/examples/concepts/student-attributes.png)
 
 The real value of making connections between attributes comes to light in the recommendation process.  Many seemingly different careers (and majors and colleges), share attributes that aren’t obvious.  For example, school teachers and software developers are very separate career paths.  However, the common attribute between them is Lifelong Learning (see Figure 6).  For students, realizing those connections could bring a huge insight into their college decision making process.
 
-<img src='examples/concepts/ambition-attributes.png'>
+![Ambition Attributes(/examples/concepts/ambition-attributes.png)
 
 To illustrate this concept with respect to our tool, we can look at a hypothetical student, Ryan, who is using at the Ambition Recommender (Figure 7) to help him make connections between his attributes and ambitions.  He knows that he likes programming and technology, so he has so far only considered a major in Computer Science.  However, when his list of Ambitions is generated, he finds that there is another major, Human Computer Interaction, which aligns better than Computer Science among his interests.
 
-<img src='examples/concepts/student-recommendation-example.png'>
+![Magic Black Box](/examples/concepts/student-recommendation-example.png)
 
 So what happened in that “black box” that was able to make that connection?  Somewhere along the way, Ryan expressed to ACT that he has an interest in Psychology, whether that was suggested by his Interest Inventory results, or explicitly stated when he filled out his Profile for the ACT.  This function was able to pull those separate interests together to provide Ryan with an insight he had never considered before. 
 
-<img src="examples/concepts/student-recommendation-detail.png">
+![Magic Black Box Explained](/examples/concepts/student-recommendation-detail.png)
 
 Of course, this example exposes several caveats that are important to account for the accuracy capabilities of the tool.  These caveats are points that ACT can focus on to improve the Ambition Fit:
 
@@ -168,18 +165,17 @@ Of course, this example exposes several caveats that are important to account fo
     - If the student does not know their ambitions, ACT can expose new information about ambition attributes in order to prompt student reflection.
     - If the student doesn’t have ambitions, ACT can provide a place to compare (and therefore evaluate) various ambitions.
   
-<img src='examples/concepts/self-knowledge-grid.png'>
+![Self Knowledge](/examples/concepts/self-knowledge-grid.png)
 
 3. Attributes and ambitions are always changing.
     - As the target user for this tool is a high school student, 18 year old ambitions come from an 18 year old sense of self.  Ambition Fit is really a measure for attributes in a point of time.  In order to deliver the most accurate analysis, ACT can promote self-reflection and iteration through an interactive exploratory tool.
     
-<img src='examples/concepts/expand-contract.png'>
+![College Decision Making Process](/examples/concepts/expand-contract.png)
 
 The key takeaways from these caveats are that the two primary purposes of a recommendation fit tool is to **provide alternative options**, and to **evaluate existing options** (see Figure 9).
 
 With this framing, we believe that ACT can support students in their college decision making process through a recommendation tool that can provide new or clarifying information, give estimates of fit via functions, and do so in a way that enables flexibility in catering to student needs.
 
----
 ## Data
 
 According to the Buckingham framework (on which the Recommender Tool is scaled), in order for data to enable insights, it must be:
@@ -197,14 +193,13 @@ The data was carefully chosen to fulfill those requirements.  In addition to ext
 
 **Occupational Information Network**, U.S. Department of Labor. A wealth of information on occupations, interests, abilities, and work values. This data provides concrete attributes about jobs, which is the next logical step for ambitions.
 
----
 ## Prototype
 
 #### Major Map Rework
 
 Our prototype takes the Major Map Ty Cruce and Krista Mattern developed, and builds upon the interactive demo the intern Rishabh Singh created, which allows users to interact with and see how majors relate to their interests. This visualization aims at answering ‘What do I want to do?’ 
 
-<img src='examples/major-map/scatter-example.png'>
+![Scatter Plot](/examples/major-map/scatter-example.png)
 
 **A. Expanding.** The scatterplot highlights the best majors according to fit by default. Some students may not know all of the options available to them, or are dismissive because of prior assumptions.
 
@@ -212,13 +207,13 @@ Our prototype takes the Major Map Ty Cruce and Krista Mattern developed, and bui
 
 **C. Interaction.** There are two main forms of interaction in the scatterplot; sliders and clicking. The default is to set the sliders to the user values to shorten the orientation period. Each slider affects the majors uniquely, making exploring a delightful experience after initially looking at their scores. Users save majors via clicking, further personalizing the output.
 
-<img src='examples/major-map/scatter.gif'>
+![Scatter interaction example](/examples/major-map/scatter.gif)
 
 #### Majors to Colleges Sankey
 
 This chart is a novel answer to the student’s question ‘Where can I go?’ It does this by visualizing the relationships between majors and the colleges that have offer each major group. The data behind this is taken from the College Scorecard to get a list of all colleges, their majors, and their attributes. The Scorecard data is then paired with ACT data to make the visualization custom to the user preferences as indicated by their collected information. This first chart comes directly after the Major Map scatterplot. It takes the saved & best fit majors and transitions into a new visualization.
 
-<img src='examples/sankey-majors/sankey-major-annotated-(no-highlight).png'>
+![Majors (no highlight)](/examples/sankey-majors/sankey-major-annotated-(no-highlight).png)
 
 **A. Expanding.** To expose new information to the student, the visualization uses College Scorecard data. The Scorecard data links majors to schools, allowing follow up questions for the user. The purpose is for the student to get an idea of where there options lay when choosing a major.
 
@@ -226,13 +221,13 @@ This chart is a novel answer to the student’s question ‘Where can I go?’ I
 
 **C. Interaction.** This chart is directly fed by the scatterplot, the saved/highlighted majors are then transformed into nodes connecting to colleges. This interaction provides continuity between questions.
 
-<img src='examples/sankey-majors/sankey-animation.gif'>
+![Majors animation](/examples/sankey-majors/sankey-animation.gif)
 
 #### Colleges to Majors Sankey
 
 The following visualization is an iteration of the previous diagram. This is a proof of concept that identical data can be presented with different emphasis, leading to insights unique to that presentation. The new feature is that we are going the opposite way now, and that both the majors and colleges are placed on the academic scale from the Major Map scatterplot. This gives the student a frame of reference from one chart to another.
 
-<img src='examples/sankey-colleges/sankey-college-annotated.png'>
+![Colleges to majors](/examples/sankey-colleges/sankey-college-annotated.png)
 
 **A. Expanding.** To expose new information to the student, the visualization uses Research’s college recommender functions. This provides a lookup for recommended colleges for the user’s location. Further the Research functions include similar colleges for a given college and student. 
 
@@ -240,7 +235,6 @@ The following visualization is an iteration of the previous diagram. This is a p
 
 **C. Interaction.** The nodes (blue rectangles) enable highlighting. After clicking either a major or college, the links between nodes change color, and the non-active nodes opacity lowers. Highlighting/brushing is crucial for this visualization as there is so much information. Prudent defaults should be labored over, as anything that is too overwhelming for the user is counter-productive. At the same time, the purpose of this chart is to show all options for a given college ambition, so it will necessarily have a large amount of information
 
----
 ## Next Steps
 
 There are a number of opportunities for ACT to support Continuum Reporting. This report will comment on the issues that recurred across departments, prototypes, or concepts we encountered. Because the project drew from so many different sources several themes started to emerge. The commentary will include factors both internal and external of the prototype.
@@ -250,15 +244,14 @@ First and foremost; we didn't interact with the users. The whole Continuum Repor
 
 Resources were a consistent struggle during the course of the summer. The distributed nature of the project led to a lot of hunting and organizing. ACT would benefit to have a single catalog where information, even entry level, would be an enormous help. In addition to a 'catalog', defined assets such as code samples, color swatches, etc would be a huge step towards consistency. To this end, the Continuum Reporting Project includes code notebooks and data dictionairies. 
 
-Internally, adding a dedicated user interface, more deliberate defaults and functions, and additional data are oppurtunities for the prototype. A dedicated user interface would enable better interaction, something that suffered from a lack of time towards the end. A cohesive interface could transition seamlessly from visualization to visualization, taking student preferences with it and making the experience pleasant to use.
+Internally, adding a dedicated user interface, more deliberate defaults and functions, and additional data are oppurtunities for the prototype. A dedicated user interface would enable better interaction, something that suffered from a lack of time towards the end. A cohesive interface could transition seamlessly from visualization to visualization, taking student preferences with it and making the experience pleasant to use. Even adding a simple dearch bar like the gif below would be a major improvement.
 
-<img src="examples/sankey-majors/ui-concept.gif"></img>
+![UI Concept](/examples/sankey-majors/ui-concept.gif)
 
 In addition to an emotionally fulfilling interface design, the interactions should be equally fun. Good defaults need to be established to implicitly guide student’s interactions. By default the tool has more information than anyone needs, so it’s up to the creators to preemptively stop information overload. This can be accomplished via interactions and defaults. Therefore it is crucial to plan ahead of time. The current prototype is ‘messier’ than ideal and clearly defining the scope of the visualizations (via defaults, within the charting functions) would have improved the output.
 
 And finally there is always the possibility for new data. It is important to note that ‘new’ data doesn’t mean a fresh dataset that only ACT has access to. This is data that is either new to the user, or presented in a novel way such that it usable to the student. This prototype used Scorecard and ONeT data, but there is a huge opportunity to either blend or combine datasets for new insights. 
 
----
 ## Sources
 
 [College Scorecard](https://collegescorecard.ed.gov/data/), by the [U.S. Department of Education](https://www.ed.gov/). School attribute information can be matched to student preferences (school population, etc...) and majors (via CIP codes). 
