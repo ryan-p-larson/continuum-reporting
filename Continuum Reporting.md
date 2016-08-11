@@ -41,14 +41,14 @@ Before applying to college, there are three major questions that students need t
 
 Currently, there are three interactive prototypes already in development at ACT that can help answer these questions respectively:
 1. **Major Map**: displays a scatter plot of majors mapped on scales of academic and interest fits.
-<img src="examples/research-orig/major-map.png">
+![Major Map](/examples/research-orig/major-map.png)
 2. **College Recommender**: outputs colleges that students similar to the user also sent their scores.
-<img src="examples/research-orig/recommender.png">
+![College Recommender](/examples/research-orig/recommender.png)
 3. **Probability Guages**: measures three probabilities of success in different majors, including the student’s likelihood of…
     - Earning a 3.0 GPA (a “B” average) in their first year
     - Returning to that major for a second year
     - Graduating with that degree in four years
-<img src="examples/research-orig/guages.png">
+![Prob. Guages](/examples/research-orig/guages.png)
     
 Separately, these prototypes offer useful information to students.  However, incorporating these three prototypes into one interactive tool will provide students the space and opportunity to discover powerful insights as they search for their next steps.  We intend to make this tool interactive so that students can explore their options freely.  Interactivity will also allow the students to feel like they come upon their decisions independently, which will create stronger ties to the conclusions they come to.
 
