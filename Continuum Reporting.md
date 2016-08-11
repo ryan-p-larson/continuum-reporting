@@ -1,8 +1,6 @@
 
 # Continuum Reporting
 
----
-
 **Ryan Larson & Kate Perry**
 
 ## Table of Contents
@@ -31,7 +29,7 @@ Currently, students provide ACT with a trove of information about themselves (bo
 
 By putting the information students have already provided ACT to use, we believe that ACT has an excellent opportunity to provide students with the ability to dynamically explore their own interests and abilities and to guide themselves through the college decision making process.
 
----
+***
 
 Before applying to college, there are three major questions that students need to answer. The following questions will serve as a starting point for the rest of our work:
 1. “*What do I want to do?*”
@@ -53,7 +51,6 @@ Separately, these prototypes offer useful information to students.  However, inc
 
 Through scenario building and instant feedback on their options as they explore, students can see a holistic view of themselves that we believe will help students identify majors that they are confident in pursuing and colleges that they will apply to.
 
----
 ## Methodology
 
 In order to structure our research and solution development, we followed IIT ID’s Design Thinking framework, as outlined in Vijay Kumar’s 101 Design Methods.  For the most part, we followed these steps in order, allotting time for one stage a week.  However, the iterative and nonlinear nature of innovation allowed us the freedom to skip around in our innovation exploration. 
@@ -239,8 +236,7 @@ The following visualization is an iteration of the previous diagram. This is a p
 
 There are a number of opportunities for ACT to support Continuum Reporting. This report will comment on the issues that recurred across departments, prototypes, or concepts we encountered. Because the project drew from so many different sources several themes started to emerge. The commentary will include factors both internal and external of the prototype.
 
-
-First and foremost; we didn't interact with the users. The whole Continuum Reporting prototype is theoretical, building off of Buckingham and other ACT frameworks. Armed the information from this project, we recommend interviewing users to see which attributes are at a position to best create scenarios. While we incorporated feedback from various prototypes, we never got to sit down with users and get their feedback, which would be invaluable.
+First and foremost; we didn't interact with the users. The whole Continuum Reporting prototype is theoretical, building off of Buckingham and other ACT frameworks. Armed the information from this project, we recommend interviewing users to see which attributes are at a position to best create college scenarios. While we incorporated feedback from various prototypes, we never got to sit down with users and get their feedback, which would be invaluable. *ACT needs to identify exactly what factors are valuable to the customer when deciding for college*. Further, factors must be evaluated for the cost:benefit involved with producing custom visualizations. 
 
 Resources were a consistent struggle during the course of the summer. The distributed nature of the project led to a lot of hunting and organizing. ACT would benefit to have a single catalog where information, even entry level, would be an enormous help. In addition to a 'catalog', defined assets such as code samples, color swatches, etc would be a huge step towards consistency. To this end, the Continuum Reporting Project includes code notebooks and data dictionairies. 
 
