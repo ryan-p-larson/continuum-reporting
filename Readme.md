@@ -4,12 +4,13 @@ Continuum Reporting
 **Summer 2016 Internship Project**
 
 Intro here. Brief description, etc etc.
+*To Do: copy/paste project description from Christine.*
 
 ![Example: Colleges & Majors](/examples/sankey-colleges/sankey-college.png)
 
 ## Final Report
 
-Take a look at the [final report](/examaples/markdown/Continuum\ Reporting.md)!
+Take a look at the [final report](/examples/markdown/Continuum\ Reporting.md)!
 
 ## Notebooks
 
