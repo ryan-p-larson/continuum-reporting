@@ -1,0 +1,332 @@
+[
+  {
+    "ACTcom": 22.37321,
+    "Arts": 48,
+    "SocialService": 50,
+    "BusinesOp": 50.8,
+    "BusinessAdmNSales": 51.1,
+    "ScienceNTechnology": 54.1,
+    "Technical": 53.5,
+    "sum": 307.5
+  },
+  {
+    "ACTcom": 23.4658044,
+    "Arts": 51.2,
+    "SocialService": 49.9,
+    "BusinesOp": 48.2,
+    "BusinessAdmNSales": 48.3,
+    "ScienceNTechnology": 59.2,
+    "Technical": 57.3,
+    "sum": 314.1
+  },
+  {
+    "ACTcom": 24.4055882,
+    "Arts": 55.7,
+    "SocialService": 49.6,
+    "BusinesOp": 49.4,
+    "BusinessAdmNSales": 49.8,
+    "ScienceNTechnology": 52.4,
+    "Technical": 55.4,
+    "sum": 312.3
+  },
+  {
+    "ACTcom": 23.2137628,
+    "Arts": 54.4,
+    "SocialService": 51.3,
+    "BusinesOp": 49.4,
+    "BusinessAdmNSales": 54.4,
+    "ScienceNTechnology": 52.7,
+    "Technical": 49.3,
+    "sum": 311.5
+  },
+  {
+    "ACTcom": 22.6980955,
+    "Arts": 55.6,
+    "SocialService": 53.2,
+    "BusinesOp": 48.4,
+    "BusinessAdmNSales": 54.9,
+    "ScienceNTechnology": 49.8,
+    "Technical": 48.6,
+    "sum": 310.5
+  },
+  {
+    "ACTcom": 20.5591856,
+    "Arts": 56.7,
+    "SocialService": 49.5,
+    "BusinesOp": 50.3,
+    "BusinessAdmNSales": 49.1,
+    "ScienceNTechnology": 52.4,
+    "Technical": 54,
+    "sum": 312
+  },
+  {
+    "ACTcom": 23.3316056,
+    "Arts": 51.2,
+    "SocialService": 46.5,
+    "BusinesOp": 51.7,
+    "BusinessAdmNSales": 48.6,
+    "ScienceNTechnology": 53.7,
+    "Technical": 53.1,
+    "sum": 304.8
+  },
+  {
+    "ACTcom": 17.9906926,
+    "Arts": 50.5,
+    "SocialService": 48.8,
+    "BusinesOp": 51.7,
+    "BusinessAdmNSales": 50.1,
+    "ScienceNTechnology": 53.8,
+    "Technical": 54.4,
+    "sum": 309.3
+  },
+  {
+    "ACTcom": 21.2962173,
+    "Arts": 51.2,
+    "SocialService": 53.1,
+    "BusinesOp": 49.5,
+    "BusinessAdmNSales": 50.8,
+    "ScienceNTechnology": 50.2,
+    "Technical": 49.7,
+    "sum": 304.5
+  },
+  {
+    "ACTcom": 26.2904929,
+    "Arts": 51,
+    "SocialService": 49.2,
+    "BusinesOp": 52.4,
+    "BusinessAdmNSales": 50.7,
+    "ScienceNTechnology": 56.8,
+    "Technical": 56.1,
+    "sum": 316.2
+  },
+  {
+    "ACTcom": 19.8234426,
+    "Arts": 49.4,
+    "SocialService": 48.4,
+    "BusinesOp": 50.5,
+    "BusinessAdmNSales": 49.2,
+    "ScienceNTechnology": 52.5,
+    "Technical": 56.7,
+    "sum": 306.7
+  },
+  {
+    "ACTcom": 24.3979111,
+    "Arts": 55.8,
+    "SocialService": 53,
+    "BusinesOp": 49,
+    "BusinessAdmNSales": 50.9,
+    "ScienceNTechnology": 54.6,
+    "Technical": 51,
+    "sum": 314.3
+  },
+  {
+    "ACTcom": 20.7425034,
+    "Arts": 51.5,
+    "SocialService": 52.9,
+    "BusinesOp": 49.2,
+    "BusinessAdmNSales": 51.2,
+    "ScienceNTechnology": 49.7,
+    "Technical": 48.6,
+    "sum": 303.1
+  },
+  {
+    "ACTcom": 20.9674593,
+    "Arts": 49.4,
+    "SocialService": 51.2,
+    "BusinesOp": 51.4,
+    "BusinessAdmNSales": 55.8,
+    "ScienceNTechnology": 50.9,
+    "Technical": 48.7,
+    "sum": 307.4
+  },
+  {
+    "ACTcom": 23.8733073,
+    "Arts": 59.5,
+    "SocialService": 52.1,
+    "BusinesOp": 47.3,
+    "BusinessAdmNSales": 52,
+    "ScienceNTechnology": 53,
+    "Technical": 49.8,
+    "sum": 313.7
+  },
+  {
+    "ACTcom": 21.2171701,
+    "Arts": 51,
+    "SocialService": 51,
+    "BusinesOp": 50.2,
+    "BusinessAdmNSales": 51,
+    "ScienceNTechnology": 52.6,
+    "Technical": 51.1,
+    "sum": 306.9
+  },
+  {
+    "ACTcom": 24.0511976,
+    "Arts": 51,
+    "SocialService": 52.1,
+    "BusinesOp": 49.6,
+    "BusinessAdmNSales": 49.7,
+    "ScienceNTechnology": 59.4,
+    "Technical": 51.5,
+    "sum": 313.3
+  },
+  {
+    "ACTcom": 25.1422965,
+    "Arts": 50.8,
+    "SocialService": 50,
+    "BusinesOp": 54.1,
+    "BusinessAdmNSales": 50.2,
+    "ScienceNTechnology": 54,
+    "Technical": 52.8,
+    "sum": 311.9
+  },
+  {
+    "ACTcom": 22.5378549,
+    "Arts": 53.4,
+    "SocialService": 51.1,
+    "BusinesOp": 48.7,
+    "BusinessAdmNSales": 51.2,
+    "ScienceNTechnology": 52.8,
+    "Technical": 50.5,
+    "sum": 307.7
+  },
+  {
+    "ACTcom": 21.1661887,
+    "Arts": 49.1,
+    "SocialService": 52.1,
+    "BusinesOp": 49.2,
+    "BusinessAdmNSales": 49.9,
+    "ScienceNTechnology": 51.6,
+    "Technical": 51.9,
+    "sum": 303.8
+  },
+  {
+    "ACTcom": 24.2277147,
+    "Arts": 57.8,
+    "SocialService": 51,
+    "BusinesOp": 47.1,
+    "BusinessAdmNSales": 52.3,
+    "ScienceNTechnology": 55.8,
+    "Technical": 51,
+    "sum": 315
+  },
+  {
+    "ACTcom": 22.8513165,
+    "Arts": 55.1,
+    "SocialService": 55.6,
+    "BusinesOp": 46.8,
+    "BusinessAdmNSales": 51.2,
+    "ScienceNTechnology": 49.2,
+    "Technical": 50.7,
+    "sum": 308.6
+  },
+  {
+    "ACTcom": 24.9362106,
+    "Arts": 50.9,
+    "SocialService": 50.2,
+    "BusinesOp": 50.8,
+    "BusinessAdmNSales": 49.2,
+    "ScienceNTechnology": 59.1,
+    "Technical": 52.8,
+    "sum": 313
+  },
+  {
+    "ACTcom": 22.3480661,
+    "Arts": 53,
+    "SocialService": 53.3,
+    "BusinesOp": 48.7,
+    "BusinessAdmNSales": 51.5,
+    "ScienceNTechnology": 53.6,
+    "Technical": 48.8,
+    "sum": 308.9
+  },
+  {
+    "ACTcom": 18.9063841,
+    "Arts": 49.2,
+    "SocialService": 52.1,
+    "BusinesOp": 49.9,
+    "BusinessAdmNSales": 52.1,
+    "ScienceNTechnology": 52.2,
+    "Technical": 52.3,
+    "sum": 307.8
+  },
+  {
+    "ACTcom": 20.3156544,
+    "Arts": 50.8,
+    "SocialService": 54,
+    "BusinesOp": 49.3,
+    "BusinessAdmNSales": 51.8,
+    "ScienceNTechnology": 49.2,
+    "Technical": 48,
+    "sum": 303.1
+  },
+  {
+    "ACTcom": 23.6121675,
+    "Arts": 52.4,
+    "SocialService": 52.3,
+    "BusinesOp": 49.6,
+    "BusinessAdmNSales": 54.8,
+    "ScienceNTechnology": 53.2,
+    "Technical": 50,
+    "sum": 312.3
+  },
+  {
+    "ACTcom": 17.6068171,
+    "Arts": 48.3,
+    "SocialService": 47.1,
+    "BusinesOp": 49.8,
+    "BusinessAdmNSales": 46.4,
+    "ScienceNTechnology": 50.2,
+    "Technical": 58.6,
+    "sum": 300.4
+  },
+  {
+    "ACTcom": 22.0620229,
+    "Arts": 49.9,
+    "SocialService": 49.8,
+    "BusinesOp": 49.5,
+    "BusinessAdmNSales": 50.5,
+    "ScienceNTechnology": 53.9,
+    "Technical": 55,
+    "sum": 308.6
+  },
+  {
+    "ACTcom": 22.601264,
+    "Arts": 59.7,
+    "SocialService": 50.3,
+    "BusinesOp": 46.9,
+    "BusinessAdmNSales": 48.8,
+    "ScienceNTechnology": 51.6,
+    "Technical": 51.7,
+    "sum": 309
+  },
+  {
+    "ACTcom": 21.0509498,
+    "Arts": 49.1,
+    "SocialService": 52.6,
+    "BusinesOp": 50,
+    "BusinessAdmNSales": 49.7,
+    "ScienceNTechnology": 54.8,
+    "Technical": 49.2,
+    "sum": 305.4
+  },
+  {
+    "ACTcom": 22.4023108,
+    "Arts": 49.6,
+    "SocialService": 50.9,
+    "BusinesOp": 53.6,
+    "BusinessAdmNSales": 54.2,
+    "ScienceNTechnology": 50.4,
+    "Technical": 50.5,
+    "sum": 309.2
+  },
+  {
+    "ACTcom": 23.488665,
+    "Arts": 54,
+    "SocialService": 51.3,
+    "BusinesOp": 48.4,
+    "BusinessAdmNSales": 52.7,
+    "ScienceNTechnology": 54.2,
+    "Technical": 50.7,
+    "sum": 311.3
+  }
+]
