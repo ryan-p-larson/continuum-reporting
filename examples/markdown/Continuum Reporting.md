@@ -141,7 +141,7 @@ Within the function’s input, or Student Attributes Domain (Figure 5), there ar
 
 The real value of making connections between attributes comes to light in the recommendation process.  Many seemingly different careers (and majors and colleges), share attributes that aren’t obvious.  For example, school teachers and software developers are very separate career paths.  However, the common attribute between them is Lifelong Learning (see Figure 6).  For students, realizing those connections could bring a huge insight into their college decision making process.
 
-![Ambition Attributes(/examples/concepts/ambition-attributes.png)
+![Ambition Attributes](/examples/concepts/ambition-attributes.png)
 
 To illustrate this concept with respect to our tool, we can look at a hypothetical student, Ryan, who is using at the Ambition Recommender (Figure 7) to help him make connections between his attributes and ambitions.  He knows that he likes programming and technology, so he has so far only considered a major in Computer Science.  However, when his list of Ambitions is generated, he finds that there is another major, Human Computer Interaction, which aligns better than Computer Science among his interests.
 
@@ -176,6 +176,7 @@ With this framing, we believe that ACT can support students in their college dec
 ## Data
 
 According to the Buckingham framework (on which the Recommender Tool is scaled), in order for data to enable insights, it must be:
+
 1. Believable
 2. Consumable
 3. Personally Relevant
