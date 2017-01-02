@@ -7,7 +7,7 @@ Take a look at the [final report](/examples/markdown/Continuum\ Reporting.md)!
 
 ## Project Description
 
-Essentially my partner and I had to conceptualize and then provide a rough sketch on how highg school students explore and decide their college options.
+Essentially my partner and I had to conceptualize, map out, and then scale how might high school students explore and decide on their college options.
 
 > Using design thinking to look at how ACT might scale helpful, supportive conversation  using continuum reporting artifacts.
 > - Kate to focus on the design thinking framework
@@ -16,6 +16,8 @@ Essentially my partner and I had to conceptualize and then provide a rough sketc
 > Focus is how to structure a supportive conversation, fill in "what's next" after student's get their ACT results back.
 >
 > --<cite>UX Project Problem Definition</cite>
+
+**Examples:**  
 
 ![Example: Colleges & Majors](/examples/sankey-colleges/sankey-college.png)
 
