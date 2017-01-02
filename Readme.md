@@ -1,6 +1,7 @@
-Continuum Reporting
+# Continuum Reporting
 
 **Summer 2016 Internship Project**  
+
 ----
 
 Take a look at the [final report](/examples/markdown/Continuum\ Reporting.md)!
