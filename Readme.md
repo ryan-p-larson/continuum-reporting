@@ -3,10 +3,11 @@ Continuum Reporting
 
 **Summer 2016 Internship Project**
 
-
-![Example: Colleges & Majors](/examples/sankey-colleges/sankey-college.png)
+Take a look at the [final report](/examples/markdown/Continuum\ Reporting.md)!
 
 ## Project Description
+
+Essentially my partner and I had to conceptualize and then provide a rough sketch on how highg school students explore and decide their college options.
 
 > Using design thinking to look at how ACT might scale helpful, supportive conversation  using continuum reporting artifacts.
 > - Kate to focus on the design thinking framework
@@ -16,9 +17,10 @@ Continuum Reporting
 >
 > --<cite>UX Project Problem Definition</cite>
 
-## Final Report
+![Example: Colleges & Majors](/examples/sankey-colleges/sankey-college.png)
 
-Take a look at the [final report](/examples/markdown/Continuum\ Reporting.md)!
+![Example: Major Interest & Challenge Prototype](/examples/major-map/scatter-example.png)
+
 
 ## Notebooks
 
