@@ -4,7 +4,7 @@
 
 ----
 
-Take a look at the [final report](/examples/markdown/Continuum\ Reporting.md)!
+Take a look at the [final report](https://github.com/ryan-p-larson/continuum-reporting/blob/master/examples/markdown/Continuum%20Reporting.md)!
 
 ## Project Description
 
